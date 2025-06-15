@@ -8,15 +8,31 @@ Evolving systems at hyperscale requires balancing innovation and stability.  We 
 
 ## Outline
 
-* 
+* Introduction
+* System Evolution
+* In Practice
+* But what about AI?
+* Reflections & Takeaways
 
 ## Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: 
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Patrick Hamann, Monique Barbanson, Jonathan Speek, Frank Denis 
+ 
 
 ## References
 
+* https://web.archive.org/web/20250604200946/https://00f.net/2025/06/04/rag/
+* https://refactoring.fm/p/how-to-design-apis-for-an-ai-world
+* https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search
+* https://glama.ai/blog/2025-06-06-mcp-vs-api
+* https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
+* https://modelcontextprotocol.io/introduction
+* https://aidailybrief.beehiiv.com/
 * 
 
 ## Image links
 
-* 
+* https://unsplash.com/photos/people-walking-on-sidewalk-during-daytime-xJY-7gtC38o
+* https://unsplash.com/photos/two-gray-pencils-on-yellow-surface-1_CMoFsPfso
+* https://unsplash.com/photos/a-piece-of-cardboard-with-a-keyboard-appearing-through-it-vi1HXPw6hyw
+* https://unsplash.com/photos/person-doing-paragliding-during-daytime-5_uyJOrTZmc
+* https://unsplash.com/photos/two-latte-drinks-with-heart-shaped-foam-tnJGUKsPEe0
