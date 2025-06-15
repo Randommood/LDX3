@@ -15,7 +15,7 @@ Evolving systems at hyperscale requires balancing innovation and stability.  We 
 * Reflections & Takeaways
 
 ## Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Patrick Hamann, Monique Barbanson, Jonathan Speek, Frank Denis 
+Thank you to everyone who helped with feedback, resources, and advice for this talk. Special thanks to: Patrick Hamann, Monique Barbanson, Jonathan Speek, and Frank Denis 
  
 
 ## References
@@ -27,7 +27,7 @@ Thank you to everyonw who helped with feedback, resources, and advice for this t
 * https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
 * https://modelcontextprotocol.io/introduction
 * https://aidailybrief.beehiiv.com/
-* 
+* https://www.youtube.com/watch?v=m0b_D2JgZgY
 
 ## Image links
 
